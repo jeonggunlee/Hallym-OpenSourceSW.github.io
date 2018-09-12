@@ -17,11 +17,13 @@
    2. **교과목 해설서 (Syllabus) 개방**: 교수의 경우 교과목 해설서를 Github에서 개발하여 개방
       * 교과목 해설서를 Github에 개방하고 실습 예제 코드 및 과거 우수 프로젝트 과제를 Github 링크를 통하여 관리함 (실습 동영상 강좌 등이 링크 되도록 지원하고 향후 MOOC로 확대될 수 있도록 지원)
       * 우수 오픈 Syllabus의 경우 오픈 소스 교육 센터에서 평가하고 우수사례를 평가하여 인센티브 제공함으로써 교수자들에게 동기 부여
-         * 예) [학부:소프트웨어캡스톤](https://github.com/jeonggunlee/Capstone-Design)
-         * 예) [학부:임베디드개론](https://github.com/jeonggunlee/Embedded-System-Design)
-         * 예) [대학원:고급컴퓨터구조](https://github.com/jeonggunlee/Advanced-Computer-Architecture)
+         * 예) [2018-1:학부:소프트웨어캡스톤](https://github.com/jeonggunlee/Capstone-Design)
+         * 예) [2018-1:학부:임베디드개론](https://github.com/jeonggunlee/Embedded-System-Design)
+         * 예) [2018-1:대학원:고급컴퓨터구조](https://github.com/jeonggunlee/Advanced-Computer-Architecture)
+         * 예) [2018-2:학부:병렬컴퓨팅](https://github.com/jeonggunlee/Parallel_Programming_2018_Fall)
+         * 예) [2018-2:학부:컴퓨터구조](https://github.com/jeonggunlee/Computer_Arch_2018_Fall)
 
 
    3. **학생 포트폴리오 개방**: 소프트웨어 전공자 학생들의 포트폴리오 작성을 잘 문서화된 과제 및 프로젝트 SW 개발 소스가 링크된 이력 기술과 함께 Github 및Github.io 등 에서 작성하여 개방함
-      * 2학년 **오픈소스 SW 이해** 및 1학년 **오픈소스 리눅스 활용** 교과목 이론/실습에서 Github 활용에 대해서 수업하고 Github.io에 자신의 이력서를 만드는 과정을 실습으로 진행한다. 이후 교과목 프로젝트 등을 지속적으로 link하여 Github.io의 이력서가 본인이 개발했던 모든 프로젝트와 통합되어 활용될 수 있도록 한다.
+      * 2학년 **[오픈소스 SW 이해](https://github.com/emsecurity/Understandings_of_Open_Source_SW_2018_Fall)** 및 1학년 **[오픈소스 리눅스 활용](https://github.com/K-DH/OpenSourceLinux_2018_Fall)** 교과목 이론/실습에서 Github 활용에 대해서 수업하고 Github.io에 자신의 이력서를 만드는 과정을 실습으로 진행한다. 이후 교과목 프로젝트 등을 지속적으로 link하여 Github.io의 이력서가 본인이 개발했던 모든 프로젝트와 통합되어 활용될 수 있도록 한다.
       
